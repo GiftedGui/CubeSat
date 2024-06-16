@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>data.csv</file>
+        <file>telemxlogo.png</file>
+    </qresource>
+</RCC>
